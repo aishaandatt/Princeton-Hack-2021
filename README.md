@@ -8,7 +8,7 @@ Usually when someone asks a question online, it usually takes many days for some
 
 ## Team Members
 
-**Team Scrantonicity**
+**Team Scrantonicity**<br/>
 Aishaan Datt : [aishaandatt](https://github.com/aishaandatt)<br/>
 Vatsal Verma : [vatsal259](https://github.com/vatsal259)<br/>
 Prayag Sharma : [prayag2301](https://github.com/prayag2301)
