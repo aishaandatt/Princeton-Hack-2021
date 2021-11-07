@@ -14,6 +14,7 @@ h5 {
 .text {
   margin: 10px;
   font-family: sans-serif;
+  max-width: 100%;
 }
 .ques {
   margin: 10px;

@@ -37,7 +37,7 @@ function App() {
         {model == null ?
           <div>
             <div>Model Loading</div>
-            <Loader type='puff' color='#00BFFF' height={100} width={100} />
+            <Loader type='ThreeDots' color='#00BFFF' height={100} width={100} />
           </div>
           :
           <React.Fragment>
